@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Hots]]></title>
-        <description><![CDATA[Hots]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Nazeebo Guide Heroes of the Storm]]></title>
+        <description><![CDATA[Nazeebo Guide Heroes of the Storm]]></description>
+        <link>https://thegrid.ai/hots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 19:34:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 20:36:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hots/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2313d31d-ec1f-4ea7-80e5-25d98f3f58c7.jpg">]]></description>
-            <link>undefinedd0a38876-5d89-4128-ae02-15cc9746a41a/index.html</link>
+            <link>https://thegrid.ai/hots/d0a38876-5d89-4128-ae02-15cc9746a41a/index.html</link>
             <guid isPermaLink="false">d0a38876-5d89-4128-ae02-15cc9746a41a</guid>
-            <pubDate>Wed, 13 Apr 2016 19:33:51 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 20:36:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
